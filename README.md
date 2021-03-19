@@ -8,7 +8,7 @@ Approach:
 
 first of all, remove unnamed columns and updating relevant naming to other columns.
 
-then perform data Cleaning and Preprocessing by making text lowercase, remove text in square brackets,remove links,remove punctuation and remove words containing numbers.
+then perform data cleaning and preprocessing by making text lowercase, remove text in square brackets,remove links,remove punctuation and remove words containing numbers.
 
 Apply different vectorizers like,
 
